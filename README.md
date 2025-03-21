@@ -195,6 +195,7 @@ int main() {
 ```
 
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/6d5dc742-b9b8-4800-a568-9dc4b6722723)
 
 ### Code: 
